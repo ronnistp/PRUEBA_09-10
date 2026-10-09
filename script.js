@@ -1,4 +1,4 @@
- const tbodyAmerica = document.querySelector("#america");
+  const tbodyAmerica = document.querySelector("#america");
             const tbodyEuropa = document.querySelector("#europa");
             const tbodyOtros = document.querySelector("#otros");
 
